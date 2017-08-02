@@ -1,0 +1,25 @@
+{
+  "name": "YGCommon",
+  "version": "0.0.1",
+  "summary": "YGCommon.",
+  "description": "YGCommon desc",
+  "homepage": "https://github.com/developforapple/YGCommon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangbo": "developforapple@163.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/developforapple/YGCommon.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Headers",
+    "Headers/*.{h,m}"
+  ]
+}
